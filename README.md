@@ -1,3 +1,31 @@
+<h1>Amazon Clone ... </h1><br/>
+<h2>Using React.js ,Redux ,TailwindCss and  Firebase <h3><br/>
+<h4>Here is a Amazon clone  that is an amazing project  consisting of  several pages  Cart ,SignIn and SignUp page.  </h4><br/>
+<h4>It consist of product images and thier description you can easily add a product to your cart and set the quantity.</h4><br/>
+<p>It also calculates the total price of your cart .</p><br/>
+<div>The websites that helped me during this project were ...<br/> 
+<p>React router dom :-  https://reactrouter.com/en/main</p><br/>
+<p>React Slick carousel :-  https://react-slick.neostack.com/ </p><br/>
+<p>Redux-toolkit :-  https://redux-toolkit.js.org/ </p><br/>
+<p>Redux persist :- https://www.npmjs.com/package/redux-persist</p><br/>
+<p>Icons :- https://mui.com/material-ui/material-icons/</p><br/>
+<p>Firebase :- https://firebase.google.com/</p><br/>
+<p>Axios :- https://axios-http.com/docs/intro</p><br/>
+<p>Api link :- https://fakestoreapiserver.vercel.app/amazonproducts</p><br/>
+</div>
+<br/><br/>
+<p>Author : Ayesha tazeen</p><br/> <br/>
+
+
+
+<div>
+<p>
+
+</p>
+</div>
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

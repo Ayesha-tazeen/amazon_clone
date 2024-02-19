@@ -47,7 +47,7 @@ function Header() {
         {/* =============deliver end here============ */}
 
         {/* ------------search engine start here--------- */}
-        <div className='md:h-10 h-8 rounded-md w-6 flex flex-row md:flex flex-grow relative '>
+        <div className='md:h-10 h-8  rounded-md w-3  hidden  flex-row md:flex flex-grow relative '>
           <span onClick={() => { setShowAll(!showAll) }} className='w-14 h-full bg-gray-200 hover:bg-gray-300 border-2 cursor-pointer duration-300 text-sm text-amazon_blue font-titleFont flex items-center justify-center rounded-tl-md rounded-bl-md'> All<span><ArrowDropDownIcon />
           </span>
             {
